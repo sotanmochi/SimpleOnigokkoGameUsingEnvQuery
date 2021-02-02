@@ -7,7 +7,7 @@ This is a demo project using [EnvironmentQueryForUnity](https://github.com/sotan
 You can move player character using arrow keys (up, down, left, right).
 
 ## Tested Environment
-- Unity 2017.4.4f1
+- Unity 2019.4.17f1
 - Windows 10 Pro
 
 ## Asset
